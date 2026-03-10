@@ -1,5 +1,7 @@
 # vasp-analysis
 
+[![CI](https://img.shields.io/github/actions/workflow/status/chatmaterials/vasp-analysis/ci.yml?branch=main&label=CI)](https://github.com/chatmaterials/vasp-analysis/actions/workflows/ci.yml) [![Release](https://img.shields.io/github/v/release/chatmaterials/vasp-analysis?display_name=tag)](https://github.com/chatmaterials/vasp-analysis/releases)
+
 Standalone skill for post-run VASP result analysis and multi-run comparison.
 
 ## Install
