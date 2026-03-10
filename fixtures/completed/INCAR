@@ -1,0 +1,9 @@
+SYSTEM = Silicon relax
+ENCUT = 520
+EDIFF = 1E-6
+ISPIN = 2
+MAGMOM = 1.0 0.0
+IBRION = 2
+NSW = 40
+ISIF = 3
+NELM = 80

@@ -1,0 +1,5 @@
+interface:
+  display_name: "VASP Analysis"
+  short_description: "Analyze and compare VASP result directories"
+  brand_color: "#1E3A8A"
+  default_prompt: "Use $vasp-analysis to analyze or compare VASP result directories."

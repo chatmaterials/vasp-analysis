@@ -1,0 +1,15 @@
+ free  energy   TOTEN  =      -10.543210 eV
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+ -----------------------------------------------------------------------------------
+    1      0.000000    0.000000    0.000000      0.010000    0.000000    0.000000
+    2      1.357500    1.357500    1.357500      0.000000    0.008000    0.000000
+ -----------------------------------------------------------------------------------
+ magnetization (x)
+ # of ion       s       p       d      tot
+ -----------------------------------------
+     1      0.10    0.00    1.20    1.30
+     2      0.00    0.00   -0.10   -0.10
+ -----------------------------------------
+ number of electron     8.0000 magnetization      1.2000
+ reached required accuracy - stopping structural energy minimisation
+ General timing and accounting informations for this job
